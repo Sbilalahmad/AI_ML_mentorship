@@ -17,6 +17,8 @@ This document explains the **end-to-end workflow of Artificial Intelligence and 
 ---
 
 ## 🔁 The AI/ML Workflow (Overview)
+
+```text
 ┌──────────────────────────────┐
 │      Problem Definition      │
 └───────────────┬──────────────┘
@@ -56,7 +58,7 @@ This document explains the **end-to-end workflow of Artificial Intelligence and 
 ┌──────────────────────────────┐
 │   Monitoring & Improvement   │
 └──────────────────────────────┘
-
+```
 Each step is **iterative**, meaning we often go back and improve previous stages.
 
 ---
